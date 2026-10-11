@@ -17,6 +17,7 @@ PRABASI/
 ├── README.md
 ├── DATA_CARD.md
 ├── CITATION.cff
+├── LICENSE
 │
 ├── code/
 │   └── distance_calculator.py
